@@ -6,3 +6,4 @@ if prestação <= (renda * 0,3):
     print(f'{prestação:.2f}')
 else:
     print('Recusado')
+    
